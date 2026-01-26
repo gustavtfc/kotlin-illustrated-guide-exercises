@@ -14,7 +14,8 @@ Daily exercises from **Kotlin: An Illustrated Guide** (Dave Leeds). Building Kot
 | 4 | ✅ Complete | Classes and Objects |
 | 5 | ✅ Complete | Enum Classes |
 | 6 | ✅ Complete | Nulls and Null Safety |
-| 7 | 🔄 Started | Lambdas and Function References |
+| 7 | ✅ Complete | Lambdas and Function References |
+| 8 | 🔄 Started | Collections: Lists and Sets |
 
 **Daily commits** since Jan 2026.
 
@@ -25,4 +26,7 @@ kotlin-illustrated-guide-exercises/
 ├── chapter1-2/
 ├── chapter3/
 ├── chapter4/
-└── chapter5/
+├── chapter5/
+├── chapter6/
+├── chapter7/
+└── chapter8/
