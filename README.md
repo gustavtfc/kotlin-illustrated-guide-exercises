@@ -10,10 +10,11 @@ Daily exercises from **Kotlin: An Illustrated Guide** (Dave Leeds). Building Kot
 | Chapter | Status | Topics |
 |---------|--------|--------|
 | 1-2 | ✅ Complete | Variables, functions |
-| 3 | ✅ Complete | Classes intro |
-| 4 | ✅ Complete | Properties, functions [Circle.kt](src/main/kotlin/chapter4/Circle.kt) |
-| 5 | 🔄 Started | Lambdas |
-| 6+ | ⏳ Next | Interfaces |
+| 3 | ✅ Complete | Conditionals: When and If |
+| 4 | ✅ Complete | Classes and Objects |
+| 5 | ✅ Complete | Enum Classes |
+| 6 | ✅ Complete | Nulls and Null Safety |
+| 7 | 🔄 Started | Lambdas and Function References |
 
 **Daily commits** since Jan 2026.
 
