@@ -17,7 +17,8 @@ Daily exercises from **Kotlin: An Illustrated Guide** (Dave Leeds). Building Kot
 | 7 | ✅ Complete | Lambdas and Function References |
 | 8 | ✅ Complete | Collections: Lists and Sets |
 | 9 | ✅ Complete | Collections: Maps |
-| 10 | 🔄 Started | Receivers and Extensions |
+| 10 | ✅ Complete | Receivers and Extensions |
+| 11 | 🔄 Started | Scopes and Scope Functions |
 **Daily commits** since Jan 2026.
 
 ## 🛠️ Structure
@@ -32,4 +33,5 @@ kotlin-illustrated-guide-exercises/
 ├── chapter7/
 ├── chapter8/
 ├── chapter9/
-└── chapter10/
+├── chapter10/
+└── chapter11/
