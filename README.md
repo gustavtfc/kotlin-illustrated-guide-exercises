@@ -20,7 +20,8 @@ Daily exercises from **Kotlin: An Illustrated Guide** (Dave Leeds). Building Kot
 | 10 | ✅ Complete | Receivers and Extensions |
 | 11 | ✅ Complete | Scopes and Scope Functions |
 | 12 | ✅ Complete | Introduction to Interfaces |
-| 13 | 🔄 Started | Introduction to Class Delegation |
+| 13 | ✅ Complete | Introduction to Class Delegation |
+| 14 | 🔄 Started | Abstract and Open Classes |
 **Daily commits** since Jan 2026.
 
 ## 🛠️ Structure
@@ -38,4 +39,5 @@ kotlin-illustrated-guide-exercises/
 ├── chapter10/
 ├── chapter11/
 ├── chapter12/
-└── chapter13/
+├── chapter13/
+└── chapter14/
