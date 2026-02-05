@@ -22,7 +22,8 @@ Daily exercises from **Kotlin: An Illustrated Guide** (Dave Leeds). Building Kot
 | 12 | ✅ Complete | Introduction to Interfaces |
 | 13 | ✅ Complete | Introduction to Class Delegation |
 | 14 | ✅ Complete | Abstract and Open Classes |
-| 15 | 🔄 Started | Data Classes and Destructuring |
+| 15 | ✅ Complete | Data Classes and Destructuring |
+| 16 | 🔄 Started | Sealed Types |
 **Daily commits** since Jan 2026.
 
 ## 🛠️ Structure
@@ -42,4 +43,5 @@ kotlin-illustrated-guide-exercises/
 ├── chapter12/
 ├── chapter13/
 ├── chapter14/
-└── chapter15/
+├── chapter15/
+└── chapter16/
