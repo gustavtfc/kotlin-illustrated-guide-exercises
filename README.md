@@ -26,7 +26,7 @@ Daily exercises from **Kotlin: An Illustrated Guide** (Dave Leeds). Building Kot
 | 16 | ✅ Complete | Sealed Types |
 | 17 | ✅ Complete | Exceptions |
 | 18 | ✅ Complete | Generics |
-**Daily commits** since Jan 2026 and Fev 2026.
+**Daily commits** between Jan 2026 and Fev 2026.
 
 ## 🛠️ Structure
 kotlin-illustrated-guide-exercises/
